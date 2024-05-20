@@ -13,7 +13,7 @@ All data of BatVision V1 are listed in BatvisionV1/train.csv, val.csv and test.c
 To get more information about the data and data collection, please check out [Batvision datasets](https://cloud.minesparis.psl.eu/index.php/s/qurl3oySgTmT85M).
 
 # Evaluation
-Configure the relevant yml files before testing
+Configure the relevant yml files before testing.We will give the pre-trained model parameters [here](https://drive.google.com/file/d/1BiNgFQNvO8n4_RZGusPzk4qksGiGQgX6/view?usp=drive_link)
 ```
 pip install requirements.txt -r
 python test.py
