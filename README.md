@@ -2,7 +2,7 @@
 This repository contains snippets of test code related to [AD-UNet] that are used to demonstrate and validate the methods mentioned in the paper. To protect the integrity of the project and sensitive information, we have not released the full research code.We provide the test code of the model to verify the accuracy of the model
 
 # Dataset
-Replica-VisualEchoes can be obatined from  [here](https://github.com/facebookresearch/VisualEchoes). We have used the 128x128 image resolution for our experiment.
+Replica-VisualEchoes can be obatined from  [replica](https://github.com/facebookresearch/VisualEchoes). We have used the 128x128 image resolution for our experiment.
 MatterportEchoes is an extension of existing [matterport3D](https://niessner.github.io/Matterport/) dataset. In order to obtain the raw frames please forward the access request acceptance from the authors of matterport3D dataset. We will release the procedure to obtain the frames and echoes using habitat-sim and soundspaces in near future.
 
 The BatVision dataset is separated in two parts: BatVision V1, recorded at UC Berkely and BatVision V2, recorded at Ecole des Mines de Paris. While BV1 contains more data, BV2 contains more complex scenes featuring a wide variety of material, room shapes and objects (including a few outdoor data).
