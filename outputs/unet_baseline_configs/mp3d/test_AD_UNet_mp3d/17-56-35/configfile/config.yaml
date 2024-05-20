@@ -1,0 +1,16 @@
+dataset:
+  name: mp3d
+  depth_norm: true
+  max_depth: 1
+mode:
+  mode: test
+  experiment_name: AD_UNet_mp3d
+  eval_on: test
+  checkpoints: 120
+  criterion: L1
+  stat_dir: ./eval/
+  num_threads: 4
+  batch_size: 1
+model:
+  name: unet_baseline
+  generator: unet_128
