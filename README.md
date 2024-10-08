@@ -1,4 +1,4 @@
-# AD-UNet: Multi-scale Feature Fusion across Intra- and Inter-layers for Echo-based Depth Estimation
+# HMSF-net: Multi-scale Feature Fusion across Intra- and Inter-layers for Echo-based Depth Estimation
 This repository contains snippets of test code related to [AD-UNet] that are used to demonstrate and validate the methods mentioned in the paper. To protect the integrity of the project and sensitive information, we have not released the full research code.We provide the test code of the model to verify the accuracy of the model
 
 # Dataset
